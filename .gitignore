@@ -1,5 +1,4 @@
 # .env
-.env
 
 # compiler files
 out
@@ -9,3 +8,5 @@ cache
 
 # tests
 coverage
+config.bat
+node_modules
